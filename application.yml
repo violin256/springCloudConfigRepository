@@ -1,12 +1,5 @@
 server:
   port: 8762
-  config:
-    name: configServer
-  cloud:
-    config:
-      server:
-        git:
-          uri
 
 eureka:
   instance:
